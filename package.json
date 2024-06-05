@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "axios": "^1.6.0",
+    "better-sqlite3": "^9.0.0",
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "param": "^1.1.0",
+    "quick.db": "^9.1.7",
+    "ytdl-core": "^4.11.5"
+  },
+  "name": "vatrain-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "Daniel Faria",
+  "license": "ISC",
+  "description": ""
+}
